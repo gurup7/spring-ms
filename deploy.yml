@@ -15,7 +15,7 @@ spec:
         app: hello
     spec:
       containers:
-      - image: openshiftindia/spring-ms:latest
+      - image: sguruprakash/spring-ms:latest
         name: spring-ms
 ---
 apiVersion: v1
